@@ -1,0 +1,43 @@
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,700);
+
+body {
+	height: 972px;
+	width: 582px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 5px solid blue;
+	padding: 0px
+
+}
+
+h1 {
+	color: black;
+	font-family: 'Merriweather', Arial, serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 1.6em;
+}
+
+h2 {
+	font-family: 'Merriweather', Arial, serif;
+	font-weight: 700;
+	font-style: normal;
+	text-align: left;
+	font-size: 1.4em;
+}
+
+h3 {
+	font-family: 'Merriweather', Arial, serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 1.2em;
+}
+
+p {
+	font-family: 'Roboto', Arial, serif;
+	font-weight: 400;
+	font-style: normal;
+}
